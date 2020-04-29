@@ -1,5 +1,5 @@
-# Who-Is-Me
-A README file for those who work with (your name here)
+# Who-Is-YOURSTUFFGOESHERE
+A README file for those who work with YOURSTUFFGOESHERE
 
 (Draft)
 
@@ -9,92 +9,92 @@ What is This?
 ====
 Just a way for me to share what I think my be useful for someone starting to work with me.
 
-About (your name here)
+About YOURNAMEGOESHERE
 ====
 What are the things I think you should know about me?
 
-Your history various stuff.
+YOURSTUFFGOESHERE
 
 Keep reading if this is the least bit helpful.
 
 Social Media
 ---
-**LinkedIn**: I'm happy to add people I know or should know to my LinkedIn (see [(your name here) LinkedIn](https://www.linkedin.com/in/(your name here)/) ). If you're curious about my work history but don't want to log into LinkedIn to peek, I keep an archived copy [here](YourNameHereProfile.pdf).
+**LinkedIn**: I'm happy to add people I know or should know to my LinkedIn (see [(YOURSTUFFGOESHERE) LinkedIn](https://www.linkedin.com/in/YOURSTUFFGOESHERE/) ). If you're curious about my work history but don't want to log into LinkedIn to peek, I keep an archived copy [here](YOURSTUFFGOESHERE).
 
-**Twitter**: you'll find my (adjective) Twitter feed [here](https://twitter.com/(your name here)).
+**Twitter**: you'll find my YOURSTUFFGOESHERE Twitter feed [here](https://twitter.com/YOURSTUFFGOESHERE).
 
-**Facebook**: Facebook wasn't really designed for work stuff. Don't worry, you'll find everything you need everywhere else.
+**Facebook**: Facebook wasn't really designed for work stuff. YOURSTUFFGOESHERE
 
 **Other Hot Platform**: I probably have an account but don't use it enough to share.
 
 About You
 ===
 
-You must be awesome or else you wouldn't be where you are now. (And more goes here)
+You must be awesome or else you wouldn't be where you are now. YOURSTUFFGOESHERE
 
 Principles and Values
 ====
 What do I believe?
 
-**Stuff**: More stuff
+**YOURSTUFFGOESHERE**: YOURSTUFFGOESHERE
 
-**Even more stuff**: stuff on stuff on stuff
+**YOURSTUFFGOESHERE**: YOURSTUFFGOESHERE
 
 What are my triggers?
 
-* (your stuff)
-* (your stuff)
-* (your stuff)
+* YOURSTUFFGOESHERE
+* YOURSTUFFGOESHERE
+* YOURSTUFFGOESHERE
 
 One-on-Ones
 ====
 
-Talk about this
+YOURSTUFFGOESHERE
 
 Communication With Me and Feedback to Me
 ===
-Stuff for that
+YOURSTUFFGOESHERE
 
 My Calendar
 ====
-(your name here)'s calendar stuff
+YOURSTUFFGOESHERE
 
 Work Life Balance
 ====
 
-Put Stuff Here About (your name here)
+YOURSTUFFGOESHERE
 
 Extra Stuff
 ===
 
-The More You Know : Stuff Here
+The More You Know : YOURSTUFFGOESHERE
 ---
-More stuff about (your name here)
+YOURSTUFFGOESHERE
 
-The More You Know : Stuff Here
----
-
-More stuff about (your name here)
-
-Important Concept To Me : Stuff Here
+The More You Know : YOURSTUFFGOESHERE
 ---
 
-More Stuff
+YOURSTUFFGOESHERE
 
-Important Concept To Me : Stuff Here
+Important Concept To Me : YOURSTUFFGOESHERE
 ---
 
-More Stuff
+YOURSTUFFGOESHERE
+
+Important Concept To Me : YOURSTUFFGOESHERE
+---
+
+YOURSTUFFGOESHERE
 
 Books I Recommend
 ---
 
-I like books. If you have a favorite book, especially one you feel has given you a great new perspective or challenged your thinking, please send its name my way.
+YOURSTUFFGOESHERE
 
-* *name of stuff* by author of stuff.
-* *name of stuff* by author of stuff.
-* *name of stuff* by author of stuff.
-* *name of stuff* by author of stuff.
-* *name of stuff* by author of stuff.
-* *name of stuff* by author of stuff.
+* *YOURSTUFFGOESHERE* YOURSTUFFGOESHERE.
+* *YOURSTUFFGOESHERE* YOURSTUFFGOESHERE.
+* *YOURSTUFFGOESHERE* YOURSTUFFGOESHERE.
+* *YOURSTUFFGOESHERE* YOURSTUFFGOESHERE.
+* *YOURSTUFFGOESHERE* YOURSTUFFGOESHERE.
+* *YOURSTUFFGOESHERE* YOURSTUFFGOESHERE.
 
